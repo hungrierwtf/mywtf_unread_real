@@ -1,13 +1,14 @@
 // ==UserScript==
 // @name         mywtf_unread_real
 // @namespace    WTDWTF
-// @version      0.6
+// @version      0.6.1
 // @description  mark topics unread that are read but not all the way
 // @author       hungrier
 // @match        https://what.thedailywtf.com/*
 // @match        http://what.thedailywtf.com/*
 // @grant        none
 // @downloadURL  https://github.com/hungrierwtf/mywtf_unread_real/raw/master/wtfunread.user.js
+// @homepageURL  https://github.com/hungrierwtf/mywtf_unread_real/
 // ==/UserScript==
 
 (function() {
